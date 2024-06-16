@@ -6,4 +6,4 @@ Untuk menjalankan mobile,
 1. Masuk kedalam folder mobile,
 2. Lalu masuk kedalam folder my-app,
 3. Jalankan perintah "npm start",
-4. Scan barcode yang ada pada terminal menggunakan aplikasi Expo Go di hp
+4. Scan barcode yang ada pada terminal menggunakan aplikasi Expo Go di hp.
